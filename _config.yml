@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: A blog about Sally Kim
+description: A blog about Sally Kim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://SallyKimOh.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Sally Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Highly competent in large-scale system development, database design, portal website development, intranet system development and network programming.
 user_title: Software Developer
 email: sallykimoh@gmail.com
 twitter_username: lorem_ipsum
 github_username:  SallyKimOh
-gplus_username:  lorem_ipsum
+Linkin_Url:https://www.linkedin.com/in/sally-kim-oh/
 
 # Google-analytics
 google-analytics:
